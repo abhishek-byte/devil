@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/devil/static/css/main.9182ae0b.chunk.css",
+    "main.js": "/devil/static/js/main.ca2d6a95.chunk.js",
+    "main.js.map": "/devil/static/js/main.ca2d6a95.chunk.js.map",
+    "runtime-main.js": "/devil/static/js/runtime-main.8af9c626.js",
+    "runtime-main.js.map": "/devil/static/js/runtime-main.8af9c626.js.map",
+    "static/js/2.09e051c2.chunk.js": "/devil/static/js/2.09e051c2.chunk.js",
+    "static/js/2.09e051c2.chunk.js.map": "/devil/static/js/2.09e051c2.chunk.js.map",
+    "index.html": "/devil/index.html",
+    "precache-manifest.5842e7973dc2f381ef925ac5777f252e.js": "/devil/precache-manifest.5842e7973dc2f381ef925ac5777f252e.js",
+    "service-worker.js": "/devil/service-worker.js",
+    "static/css/main.9182ae0b.chunk.css.map": "/devil/static/css/main.9182ae0b.chunk.css.map",
+    "static/js/2.09e051c2.chunk.js.LICENSE.txt": "/devil/static/js/2.09e051c2.chunk.js.LICENSE.txt",
+    "static/media/login.svg": "/devil/static/media/login.9a76e74e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8af9c626.js",
+    "static/js/2.09e051c2.chunk.js",
+    "static/css/main.9182ae0b.chunk.css",
+    "static/js/main.ca2d6a95.chunk.js"
+  ]
+}
